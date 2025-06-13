@@ -1,0 +1,5 @@
+prefix: '&c[AKYItemRepair] '
+permissions:
+  akyitemrepair.default: 3600
+  akyitemrepair.premium: 1800
+  akyitemrepair.premium.plus: 600

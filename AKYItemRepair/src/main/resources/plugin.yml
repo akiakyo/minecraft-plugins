@@ -1,0 +1,14 @@
+name: AKYItemRepair
+version: 1.0
+main: com.akyo.akyitemrepair.AKYItemRepair
+api-version: 1.20
+commands:
+  akyrepair:
+    description: Repair item
+    usage: /<command>
+  arepair:
+    description: Repair item
+    usage: /<command>
+  repair:
+    description: Repair item
+    usage: /<command>
